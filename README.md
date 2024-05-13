@@ -1,1 +1,0 @@
-# SSAFYnity ERP Backend
